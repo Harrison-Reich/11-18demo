@@ -1,2 +1,7 @@
-# Klondike Air Demo Website for Portfolio Purposes
+# Klondike Air Demo Websitev
+
+![Badge for GitHub last commit](https://img.shields.io/github/last-commit/Harrison-Reich/Klondike-Air-Demo?style=flat&logo=appveyor) ![Badge for GitHub commit activity](https://img.shields.io/github/commit-activity/w/Harrison-Reich/Klondike-Air-Demo?color=purple)
+
+  ## Description
+  This is an HVAC redesigned website project for portfolio purposes
 link to demo: https://harrison-reich.github.io/Klondike-Air-Demo/
